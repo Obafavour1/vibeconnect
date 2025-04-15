@@ -34,7 +34,7 @@ const Navbar = () => {
         <div className="hidden md:flex items-center gap-10 text-xl font-normal">
           {NavLink.map((link) => {
             return (
-              <div>
+              <div key={link.name}>
                 <Link
                   href={link.href}
                   className={`${

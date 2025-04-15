@@ -1,7 +1,5 @@
 import Discover from "@/components/Discover";
 import Faq from "@/components/Faq";
-import Footer from "@/components/Footer";
-import Image from "next/image";
 
 export default function Home() {
   return (
