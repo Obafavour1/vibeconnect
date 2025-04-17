@@ -21,7 +21,7 @@ interface IReward {
 
 const ExclusiveRewards = () => {
   return (
-    <div className="bg-gray-900 p-8 rounded-lg">
+    <div className=" p-8 rounded-lg">
       <h2 className="text-white text-2xl font-bold mb-6">Exclusive Rewards</h2>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">

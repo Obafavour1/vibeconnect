@@ -205,7 +205,7 @@ export const trendingTopic = [
     title: "Artist of the week",
     comments: "1500+",
     people: [
-      "/avatars/person13.svg",
+      "/avatars/person13.",
       "/avatars/person14.svg",
       "/avatars/person15.svg",
     ],
@@ -509,7 +509,7 @@ export const recentEvents: IEvent[] = [
     id: "kings-of-music",
     title: "Lagos Nights Experience",
     description: "Register as an artist to perform at the upcoming event.",
-    image: "/images/kings-of-music.svg",
+    image: "/images/events/kingofmusic.svg",
     date: {
       day: 16,
       month: "April",
@@ -528,7 +528,7 @@ export const recentEvents: IEvent[] = [
     id: "jazz-piano",
     title: "Lagos Night Experience",
     description: "Register as an artist to perform at the upcoming event.",
-    image: "/images/jazz-piano.svg",
+    image: "/images/events/recentjazzmusic.svg",
     date: {
       day: 17,
       month: "April",
@@ -547,7 +547,7 @@ export const recentEvents: IEvent[] = [
     id: "music-festival",
     title: "Lagos Night Experience",
     description: "Register as an artist to perform at the upcoming event.",
-    image: "/images/music-festival-icons.svg",
+    image: "/images/events/recentmusicfestival.svg",
     date: {
       day: 18,
       month: "April",
@@ -566,7 +566,7 @@ export const recentEvents: IEvent[] = [
     id: "music-event",
     title: "Lagos Night Experience",
     description: "Register as an artist to perform at the upcoming event.",
-    image: "/images/music-event.svg",
+    image: "/images/events/recentmusicevent.svg",
     date: {
       day: 19,
       month: "April",
@@ -585,7 +585,7 @@ export const recentEvents: IEvent[] = [
     id: "electro",
     title: "Lagos Night Experience",
     description: "Register as an artist to perform at the upcoming event.",
-    image: "/images/electro.svg",
+    image: "/images/events/eventelectro.svg",
     date: {
       day: 19,
       month: "April",
@@ -604,7 +604,7 @@ export const recentEvents: IEvent[] = [
     id: "dj-soma",
     title: "Lagos Night Experience",
     description: "Register as an artist to perform at the upcoming event.",
-    image: "/images/dj-soma.svg",
+    image: "/images/events/eventsoma.svg",
     date: {
       day: 20,
       month: "April",

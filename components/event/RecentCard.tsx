@@ -51,7 +51,7 @@ const EventCard: React.FC<EventCardProps> = ({ event }) => {
 
 const RecentEvents: React.FC = () => {
   return (
-    <div className="bg-black py-8 px-4 md:px-6">
+    <div className="bg-black py-8 px-4 md:px-6 lg:px-24 lg:py-24">
       <div className="max-w-7xl mx-auto">
         {/* Header with "See all" link */}
         <div className="flex justify-between items-center mb-6">

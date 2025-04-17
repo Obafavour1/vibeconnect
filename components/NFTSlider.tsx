@@ -49,7 +49,7 @@ const NFTSlider: React.FC = () => {
   }
 
   return (
-    <div className="w-full bg-gray-900 py-12 px-6">
+    <div className="w-full  py-12 px-6">
       <div className="max-w-7xl mx-auto">
         {/* Title */}
         <h2 className="text-3xl font-bold text-white text-center mb-8">

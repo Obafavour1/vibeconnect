@@ -204,7 +204,7 @@ const page = () => {
           </div>
 
           {/* Microphone Image */}
-          <div className=" h-[200px] w-[200px] md:h-[400px] overflow-hidden rounded-3xl shadow-lg">
+          <div className=" h-[200px] max-md:w-[200px] md:w-full md:h-[400px] overflow-hidden rounded-3xl shadow-lg">
             <Image
               src="/images/artistmic.svg"
               alt="Microphone close-up"

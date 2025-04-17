@@ -54,11 +54,14 @@ const EventCard: React.FC<EventCardProps> = ({ event }) => {
 
 const UpcomingEvents: React.FC = () => {
   return (
-    <div className="bg-gray-900 py-8 px-4 md:px-6">
+    <div className="bg-gray-900 py-8 px-4 md:px-6 lg:px-24 lg:py-24">
       <div className="max-w-7xl mx-auto">
+        <h3 className=" text-white w-7/12 text-center mx-auto mt-10 mb-20 text-3xl sm:text-4xl md:text-5xl font-bold leading-tight">
+          Exciting Events Ahead Book Your Spot
+        </h3>
         {/* Header with "See all" link */}
         <div className="flex justify-between items-center mb-6">
-          <h2 className="text-xl font-bold text-white">Upcoming Events</h2>
+          <h3 className="text-xl font-bold text-white">Upcoming Events</h3>
           <Link
             href="/events"
             className="text-sm text-pink-500 hover:text-pink-400 transition-colors"
