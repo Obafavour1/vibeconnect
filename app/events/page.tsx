@@ -26,7 +26,7 @@ const page = () => {
 
       <RecentEvents />
 
-      <section className="px-24 py-24 bg-[#222227]">
+      <section className="px-5 md:px-24 py-24 bg-[#222227]">
         <div className="grid grid-cols-2 text-white gap-20">
           <div>
             <h3 className="text-3xl font-bold">
