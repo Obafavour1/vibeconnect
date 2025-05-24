@@ -34,8 +34,9 @@ const Discover = () => {
                     <Image
                       src={trending.img}
                       alt={trending.name}
-                      fill
                       className="object-cover rounded-lg"
+                      fill
+                      priority
                     />
                   </div>
                   <p className="text-lg sm:text-xl my-3">{trending.name}</p>
@@ -66,8 +67,9 @@ const Discover = () => {
                       <Image
                         src={music.img}
                         alt={music.name}
-                        fill
                         className="object-cover rounded-lg"
+                        fill
+                        priority
                       />
                     </div>
                     <p className="text-lg sm:text-xl my-3">{music.name}</p>
