@@ -9,22 +9,22 @@ export const TrendingData = [
   {
     name: "Shannon M",
     role: "Hip-hop Artist",
-    img: "/images/shannon.svg",
+    img: "/images/shannon.png",
   },
   {
     name: "Jidex",
     role: "Poet",
-    img: "/images/jidex.svg",
+    img: "/images/jidex.png",
   },
   {
     name: "Omowunmi",
     role: "Spoken Word Artist",
-    img: "/images/omowunmi.svg",
+    img: "/images/omowunmi.png",
   },
   {
     name: "Faceless",
     role: "Hip-hop Artist",
-    img: "/images/faceless.svg",
+    img: "/images/faceless.png",
   },
 ];
 
@@ -32,22 +32,22 @@ export const NewMusicData = [
   {
     name: "Luna Rae",
     title: "Echoes of Midnight",
-    img: "/images/luna.svg",
+    img: "/images/luna.png",
   },
   {
     name: "Nova",
     title: "Lost in the Rhythm",
-    img: "/images/nova.svg",
+    img: "/images/nova.png",
   },
   {
     name: "Carter",
     title: "Dreams",
-    img: "/images/carter.svg",
+    img: "/images/carter.png",
   },
   {
     name: "Shannon M",
     title: "Unscripted Heart",
-    img: "/images/shannonmusic.svg",
+    img: "/images/shannonmusic.png",
   },
 ];
 
