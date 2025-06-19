@@ -4,7 +4,7 @@ import Faq from "@/components/Faq";
 export default function Home() {
   return (
     <main className="">
-      <section className="pt-20 md:pt-40 px-4 sm:px-8 md:px-16 lg:px-24 bg-[url('/images/vibeConnectHero.svg')] bg-cover min-h-screen bg-no-repeat">
+      <section className="pt-20 md:pt-40 px-4 sm:px-8 md:px-16 lg:px-24 bg-[url('/images/vibeConnectHero.png')] bg-cover min-h-screen bg-no-repeat">
         <div className="text-white w-full md:w-7/12 mt-12 md:mt-24">
           <h2 className="text-4xl sm:text-5xl lg:text-6xl font-bold">
             Discover, Connect & Elevate Your Music Journey
@@ -22,7 +22,7 @@ export default function Home() {
       <Discover />
       <Faq />
 
-      <section className="bg-[url('/images/joinBg.svg')] bg-cover min-h-[400px] bg-no-repeat text-white px-4 sm:px-8 md:px-16 lg:px-24 py-12 sm:py-16 md:py-24">
+      <section className="bg-[url('/images/joinBg.png')] bg-cover min-h-[400px] bg-no-repeat text-white px-4 sm:px-8 md:px-16 lg:px-24 py-12 sm:py-16 md:py-24">
         <div className="w-full md:w-10/12 lg:w-8/12 mx-auto">
           <h3 className="text-3xl sm:text-4xl lg:text-5xl font-bold mb-12 sm:mb-16 md:mb-24 text-center">
             Join a Community of 500+ artists and music lovers today
