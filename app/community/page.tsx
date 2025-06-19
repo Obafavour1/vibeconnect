@@ -6,7 +6,7 @@ import React from "react";
 const page = () => {
   return (
     <main>
-      <section className="bg-[#222227] pt-20 sm:pt-24 md:pt-32 lg:pt-40 px-4 sm:px-8 md:px-16 lg:px-24 bg-[url('/images/communityHeroBg.svg')] bg-cover min-h-[60vh] sm:min-h-[70vh] md:min-h-[80vh] lg:min-h-screen bg-no-repeat">
+      <section className="bg-[#222227] pt-20 sm:pt-24 md:pt-32 lg:pt-40 px-4 sm:px-8 md:px-16 lg:px-24 bg-[url('/images/communityHeroBg.png')] bg-cover min-h-[60vh] sm:min-h-[70vh] md:min-h-[80vh] lg:min-h-screen bg-no-repeat">
         <div className="text-white w-full md:w-10/12 lg:w-8/12 mt-12 sm:mt-16 md:mt-20 lg:mt-24">
           <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold">
             Showcase Your Talent, Connect with Fans And Find Opportunities

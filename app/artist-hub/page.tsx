@@ -27,7 +27,7 @@ const page = () => {
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6 sm:gap-8 mt-16 md:mt-24">
           <div className="flex justify-center">
             <Image
-              src="/images/artistpic1.svg"
+              src="/images/artistpic1.png"
               alt="Artist 1"
               width={295}
               height={220}
@@ -36,7 +36,7 @@ const page = () => {
           </div>
           <div className="flex justify-center">
             <Image
-              src="/images/artistpic2.svg"
+              src="/images/artistpic2.png"
               alt="Artist 2"
               width={243}
               height={220}
@@ -45,7 +45,7 @@ const page = () => {
           </div>
           <div className="flex justify-center">
             <Image
-              src="/images/artistpic3.svg"
+              src="/images/artistpic3.png"
               alt="Artist 3"
               width={295}
               height={220}
@@ -54,7 +54,7 @@ const page = () => {
           </div>
           <div className="flex justify-center">
             <Image
-              src="/images/artistpic4.svg"
+              src="/images/artistpic4.png"
               alt="Artist 4"
               width={145}
               height={220}
@@ -83,7 +83,7 @@ const page = () => {
             </div>
             <div className="relative w-[250px] max-md:order-1 mx-auto  md:w-[520px] h-[200px] md:h-[520px] mb-6">
               <Image
-                src="/images/artistpassion.svg" // Replace with your image path
+                src="/images/artistpassion.png" // Replace with your image path
                 alt="Person with headphones"
                 layout="fill"
                 objectFit="cover"
@@ -96,7 +96,7 @@ const page = () => {
           <div className="relative grid md:grid-cols-2 mt-16 md:flex-row gap-10 md:gap-24 items-center justify-between">
             <div className="absolute w-full h-full -top-32">
               <Image
-                src="/images/artistoverlayBg.svg" // Replace with your image path
+                src="/images/artistoverlayBg.png" // Replace with your image path
                 alt="overlay"
                 layout="fill"
                 objectFit="cover"
@@ -105,7 +105,7 @@ const page = () => {
             </div>
             <div className="relative  w-[250px] mx-auto  md:w-[520px] h-[200px] md:h-[520px] md:mb-6">
               <Image
-                src="/images/artistexclusive.svg" // Replace with your image path
+                src="/images/artistexclusive.png" // Replace with your image path
                 alt="Person with headphones"
                 layout="fill"
                 objectFit="cover"
@@ -142,7 +142,7 @@ const page = () => {
           <div className="flex justify-center gap-4 mb-8 relative">
             <div className="w-24 h-36 md:w-32 md:h-48 overflow-hidden rounded-xl shadow-lg">
               <Image
-                src="/images/artiststage1.svg"
+                src="/images/artiststage1.png"
                 alt="Performance 1"
                 width={180}
                 height={209}
@@ -151,7 +151,7 @@ const page = () => {
             </div>
             <div className="w-28 h-40 md:w-36 md:h-52 overflow-hidden rounded-xl shadow-lg z-10">
               <Image
-                src="/images/artiststage2.svg"
+                src="/images/artiststage2.png"
                 alt="Performance 2"
                 width={235}
                 height={320}
@@ -160,7 +160,7 @@ const page = () => {
             </div>
             <div className="w-24 h-36 md:w-32 md:h-48 overflow-hidden rounded-xl shadow-lg">
               <Image
-                src="/images/artiststage3.svg"
+                src="/images/artiststage3.png"
                 alt="Performance 3"
                 width={180}
                 height={209}
@@ -206,7 +206,7 @@ const page = () => {
           {/* Microphone Image */}
           <div className=" h-[200px] max-md:w-[200px] md:w-full md:h-[400px] overflow-hidden rounded-3xl shadow-lg">
             <Image
-              src="/images/artistmic.svg"
+              src="/images/artistmic.png"
               alt="Microphone close-up"
               width={416}
               height={505}

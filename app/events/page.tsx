@@ -6,7 +6,7 @@ import React from "react";
 const page = () => {
   return (
     <main>
-      <section className="pt-24 md:pt-40 px-4 sm:px-8 md:px-16 lg:px-24 bg-[url('/images/events/eventBg.svg')] bg-cover min-h-[60vh] sm:min-h-[70vh] md:min-h-[80vh] lg:min-h-screen bg-no-repeat">
+      <section className="pt-24 md:pt-40 px-4 sm:px-8 md:px-16 lg:px-24 bg-[url('/images/events/eventBg.png')] bg-cover min-h-[60vh] sm:min-h-[70vh] md:min-h-[80vh] lg:min-h-screen bg-no-repeat">
         <div className="text-center text-white mt-16">
           <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold leading-tight">
             Join the Experience Celebrate the Vibe
